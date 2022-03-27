@@ -201,8 +201,14 @@ function removeGigantamaxes(pokemonArray) {
 	});
 }
 
+function sortPokemonArrayById(generatedPokemon){	
+	generatedPokemon.sort((a,b) => (a.id > b.id) ? 1 : ((b.id > a.id) ? -1 : 0))	
+	return generatedPokemon;
+}
+
 /** Converts a JSON array of Pokémon into an HTML ordered list. */
 function htmlifyPokemonArray(generatedPokemon, options) {
+	generatedPokemon = sortPokemonArrayById(generatedPokemon);
 	var output = "<ol>";
 	for (var i=0; i<generatedPokemon.length; i++) {
 		output += htmlifyPokemon(generatedPokemon[i], options);
@@ -231,6 +237,8 @@ function htmlifyPokemon(pokemon, options) {
 	if (options.natures) {
 		out += '<span class="nature">' + generateNature() + "</span> ";
 	}
+	out += "#" + pokemon.id + ": ";
+	
 	out += pokemon.name;
 	if (shiny) {
 		out += ' <span class="star">&#9733;</span>';
@@ -239,6 +247,12 @@ function htmlifyPokemon(pokemon, options) {
 		var sprite = getSpritePath(pokemon, shiny);
 		out += ' <img src="' + sprite + '" alt="' + title + '" title="' + title + '" />';
 	}
+	out+= "<p>"
+	for (var i=0; i<pokemon.types.length; i++) {
+		type = pokemon.types[i];
+		out += " " + '<img src="sprites/png/types/' + type + '.png" alt="' + type + '" title="' + type + '" width="30em" style="position: relative;" />';
+	}
+	out+="</p>"
 
 	out += "</li>";
 
@@ -279,7 +293,7 @@ function shuffle(arr) {
 	return arr;
 }
 
-function randomInteger(maxExclusive) {
+function randomInteger(maxExclusive) {	
 	return Math.floor(Math.random() * maxExclusive);
 }
 

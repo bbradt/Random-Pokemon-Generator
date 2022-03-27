@@ -1,0 +1,2222 @@
+#001 Bulbasaur
+Bulbasaur
+[Bulbasaur]
+Level 50
+	
+HP:	128
+Attack:	78
+Defense:	78
+Special:	93
+Speed:	73
+	
+Leech Seed
+Toxic
+Body Slam
+Razor Leaf
+#002 Ivysaur
+Ivysaur
+[Ivysaur]
+Level 50
+	
+HP:	143
+Attack:	91
+Defense:	92
+Special:	108
+Speed:	88
+	
+Razor Leaf
+Sleep Powder
+Mega Drain
+Double-edge
+#003 Venusaur
+Venusaur
+[Venusaur]
+Level 50
+	
+HP:	163
+Attack:	111
+Defense:	112
+Special:	128
+Speed:	108
+	
+Leech Seed
+Poisonpowder
+Solarbeam
+Take Down
+#004 Charmander
+Charmander
+[Charmander]
+Level 50
+	
+HP:	122
+Attack:	81
+Defense:	72
+Special:	78
+Speed:	93
+	
+Flamethrower
+Slash
+Seismic Toss
+Dig
+#005 Charmeleon
+Charmeleon
+[Charmeleon]
+Level 50
+	
+HP:	141
+Attack:	93
+Defense:	87
+Special:	93
+Speed:	108
+	
+Fire Blast
+Counter
+Dragon Rage
+Slash
+#006 Charizard
+Charizard
+[Charizard]
+Level 50
+	
+HP:	161
+Attack:	113
+Defense:	107
+Special:	113
+Speed:	128
+	
+Fly
+Dig
+Fire Spin
+Mimic
+#007 Squirtle
+Squirtle
+[Squirtle]
+Level 50
+	
+HP:	127
+Attack:	77
+Defense:	94
+Special:	78
+Speed:	71
+	
+Surf
+Blizzard
+Dig
+Seismic Toss
+#008 Wartortle
+Wartortle
+[Wartortle]
+Level 50
+	
+HP:	142
+Attack:	92
+Defense:	109
+Special:	93
+Speed:	86
+	
+Surf
+Counter
+Submission
+Ice Beam
+#009 Blastoise
+Blastoise
+[Blastoise]
+Level 50
+	
+HP:	162
+Attack:	112
+Defense:	129
+Special:	113
+Speed:	106
+	
+Hydro Pump
+Bide
+Strength
+Withdraw
+#010 Caterpie
+Caterpie
+[Caterpie]
+Level 50
+	
+HP:	128
+Attack:	59
+Defense:	64
+Special:	48
+Speed:	73
+	
+Tackle
+String Shot
+#011 Metapod
+Metapod
+[Metapod]
+Level 50
+	
+HP:	133
+Attack:	49
+Defense:	84
+Special:	53
+Speed:	58
+	
+Tackle
+String Shot
+#012 Butterfree
+Butterfree
+[Butterfree]
+Level 50
+	
+HP:	143
+Attack:	74
+Defense:	79
+Special:	108
+Speed:	98
+	
+Psychic
+Supersonic
+Hyper Beam
+Mega Drain
+#013 Weedle
+Weedle
+[Weedle]
+Level 50
+	
+HP:	123
+Attack:	64
+Defense:	59
+Special:	48
+Speed:	78
+	
+String Shot
+Poison Sting
+#014 Kakuna
+Kakuna
+[Kakuna]
+Level 50
+	
+HP:	128
+Attack:	54
+Defense:	79
+Special:	53
+Speed:	63
+	
+String Shot
+Poison Sting
+#015 Beedrill
+Beedrill
+[Beedrill]
+Level 50
+	
+HP:	148
+Attack:	109
+Defense:	69
+Special:	73
+Speed:	103
+	
+Twineedle
+Focus Energy
+Double-edge
+Mega Drain
+#016 Pidgey
+Pidgey
+[Pidgey]
+Level 50
+	
+HP:	123
+Attack:	74
+Defense:	69
+Special:	63
+Speed:	84
+	
+Fly
+Double-edge
+Toxic
+Double Team
+#017 Pidgeotto
+Pidgeotto
+[Pidgeotto]
+Level 50
+	
+HP:	146
+Attack:	89
+Defense:	84
+Special:	78
+Speed:	99
+	
+Fly
+Agility
+Sand-attack
+Take Down
+#018 Pidgeot
+Pidgeot
+[Pidgeot]
+Level 50
+	
+HP:	166
+Attack:	109
+Defense:	104
+Special:	98
+Speed:	119
+	
+Mirror Move
+Fly
+Quick Attack
+Hyper Beam
+#019 Rattata
+Rattata
+[Rattata]
+Level 50
+	
+HP:	113
+Attack:	85
+Defense:	64
+Special:	53
+Speed:	100
+	
+Super Fang
+Hyper Fang
+Blizzard
+Dig
+#020 Raticate
+Raticate
+[Raticate]
+Level 50
+	
+HP:	138
+Attack:	110
+Defense:	89
+Special:	78
+Speed:	125
+	
+Hyper Fang
+Bubblebeam
+Focus Energy
+Dig
+#021 Spearow
+Spearow
+[Spearow]
+Level 50
+	
+HP:	123
+Attack:	89
+Defense:	59
+Special:	59
+Speed:	98
+	
+Drill Peck
+Mirror Move
+Double Team
+Double-edge
+#022 Fearow
+Fearow
+[Fearow]
+Level 50
+	
+HP:	148
+Attack:	119
+Defense:	94
+Special:	89
+Speed:	128
+	
+Agility
+Double Team
+Fly
+Swift
+#023 Ekans
+Ekans
+[Ekans]
+Level 50
+	
+HP:	118
+Attack:	89
+Defense:	73
+Special:	68
+Speed:	83
+	
+Earthquake
+Strength
+Glare
+Acid
+#024 Arbok
+Arbok
+[Arbok]
+Level 50
+	
+HP:	143
+Attack:	114
+Defense:	98
+Special:	93
+Speed:	108
+	
+Glare
+Rock Slide
+Acid
+Dig
+#025 Pikachu
+Pikachu
+[Pikachu]
+Level 50
+	
+HP:	118
+Attack:	84
+Defense:	59
+Special:	78
+Speed:	118
+	
+Thunderbolt
+Seismic Toss
+Thunder Wave
+Flash
+#026 Raichu
+Raichu
+[Raichu]
+Level 50
+	
+HP:	143
+Attack:	119
+Defense:	84
+Special:	118
+Speed:	128
+	
+Thunder
+Thunder Wave
+Growl
+Mega Kick
+#027 Sandshrew
+Sandshrew
+[Sandshrew]
+Level 50
+	
+HP:	133
+Attack:	104
+Defense:	114
+Special:	58
+Speed:	68
+	
+Earthquake
+Slash
+Seismic Toss
+Sand-attack
+#028 Sandslash
+Sandslash
+[Sandslash]
+Level 50
+	
+HP:	158
+Attack:	129
+Defense:	139
+Special:	83
+Speed:	93
+	
+Dig
+Rock Slide
+Sand-attack
+Fury Swipes
+#029 Nidoran♀
+Nidoran♀
+[Nidoran♀]
+Level 50
+	
+HP:	138
+Attack:	76
+Defense:	81
+Special:	68
+Speed:	69
+	
+Body Slam
+Toxic
+Thunderbolt
+Blizzard
+#030 Nidorina
+Nidorina
+[Nidorina]
+Level 50
+	
+HP:	153
+Attack:	91
+Defense:	96
+Special:	83
+Speed:	84
+	
+Thunder
+Ice Beam
+Toxic
+Body Slam
+#031 Nidoqueen
+Nidoqueen
+[Nidoqueen]
+Level 50
+	
+HP:	173
+Attack:	111
+Defense:	116
+Special:	103
+Speed:	104
+	
+Double Kick
+Toxic
+Body Slam
+Thunder
+#032 Nidoran♂
+Nidoran♂
+[Nidoran♂]
+Level 50
+	
+HP:	129
+Attack:	86
+Defense:	69
+Special:	68
+Speed:	78
+	
+Horn Drill
+Toxic
+Thunderbolt
+Blizzard
+#033 Nidorino
+Nidorino
+[Nidorino]
+Level 50
+	
+HP:	144
+Attack:	101
+Defense:	86
+Special:	83
+Speed:	93
+	
+Toxic
+Horn Drill
+Ice Beam
+Double-edge
+#034 Nidoking
+Nidoking
+[Nidoking]
+Level 50
+	
+HP:	164
+Attack:	121
+Defense:	106
+Special:	103
+Speed:	113
+	
+Earthquake
+Horn Drill
+Double Kick
+Poison Sting
+#035 Clefairy
+Clefairy
+[Clefairy]
+Level 50
+	
+HP:	153
+Attack:	74
+Defense:	77
+Special:	88
+Speed:	63
+	
+Thunderbolt
+Blizzard
+Body Slam
+Metronome
+#036 Clefable
+Clefable
+[Clefable]
+Level 50
+	
+HP:	178
+Attack:	99
+Defense:	102
+Special:	113
+Speed:	88
+	
+Sing
+Metronome
+Tri Attack
+Ice Beam
+#037 Vulpix
+Vulpix
+[Vulpix]
+Level 50
+	
+HP:	121
+Attack:	70
+Defense:	69
+Special:	93
+Speed:	93
+	
+Flamethrower
+Reflect
+Confuse Ray
+Dig
+#038 Ninetales
+Ninetales
+[Ninetales]
+Level 50
+	
+HP:	156
+Attack:	105
+Defense:	104
+Special:	128
+Speed:	128
+	
+Confuse Ray
+Dig
+Fire Spin
+Bide
+#039 Jigglypuff
+Jigglypuff
+[Jigglypuff]
+Level 50
+	
+HP:	198
+Attack:	74
+Defense:	49
+Special:	53
+Speed:	48
+	
+Sing
+Body Slam
+Seismic Toss
+Psychic
+#040 Wigglytuff
+Wigglytuff
+[Wigglytuff]
+Level 50
+	
+HP:	223
+Attack:	99
+Defense:	74
+Special:	78
+Speed:	73
+	
+Sing
+Strength
+Disable
+Psychic
+#041 Zubat
+Zubat
+[Zubat]
+Level 50
+	
+HP:	123
+Attack:	74
+Defense:	64
+Special:	68
+Speed:	83
+	
+Confuse Ray
+Mega Drain
+Toxic
+Double-edge
+#042 Golbat
+Golbat
+[Golbat]
+Level 50
+	
+HP:	158
+Attack:	109
+Defense:	99
+Special:	103
+Speed:	118
+	
+Confuse Ray
+Mega Drain
+Hyper Beam
+Haze
+#043 Oddish
+Oddish
+[Oddish]
+Level 50
+	
+HP:	128
+Attack:	79
+Defense:	84
+Special:	103
+Speed:	58
+	
+Stun Spore
+Petal Dance
+Mega Drain
+Double-edge
+#044 Gloom
+Gloom
+[Gloom]
+Level 50
+	
+HP:	143
+Attack:	94
+Defense:	99
+Special:	113
+Speed:	68
+	
+Stun Spore
+Petal Dance
+Acid
+Take Down
+#045 Vileplume
+Vileplume
+[Vileplume]
+Level 50
+	
+HP:	158
+Attack:	109
+Defense:	114
+Special:	128
+Speed:	78
+	
+Petal Dance
+Acid
+Cut
+Stun Spore
+#046 Paras
+Paras
+[Paras]
+Level 50
+	
+HP:	118
+Attack:	99
+Defense:	84
+Special:	83
+Speed:	53
+	
+Spore
+Slash
+Dig
+Mega Drain
+#047 Parasect
+Parasect
+[Parasect]
+Level 50
+	
+HP:	143
+Attack:	124
+Defense:	109
+Special:	108
+Speed:	58
+	
+Spore
+Dig
+Growth
+Mega Drain
+#048 Venonat
+Venonat
+[Venonat]
+Level 50
+	
+HP:	143
+Attack:	84
+Defense:	79
+Special:	68
+Speed:	73
+	
+Psychic
+Mega Drain
+Double-edge
+Toxic
+#049 Venomoth
+Venomoth
+[Venomoth]
+Level 50
+	
+HP:	153
+Attack:	94
+Defense:	89
+Special:	118
+Speed:	118
+	
+Psychic
+Supersonic
+Swift
+Toxic
+#050 Diglett
+Diglett
+[Diglett]
+Level 50
+	
+HP:	93
+Attack:	84
+Defense:	54
+Special:	73
+Speed:	123
+	
+Earthquake
+Slash
+Fissure
+Rock Slide
+#051 Dugtrio
+Dugtrio
+[Dugtrio]
+Level 50
+	
+HP:	118
+Attack:	109
+Defense:	79
+Special:	98
+Speed:	148
+	
+Dig
+Sand-attack
+Rock Slide
+Substitute
+#052 Meowth
+Meowth
+[Meowth]
+Level 50
+	
+HP:	123
+Attack:	74
+Defense:	64
+Special:	68
+Speed:	118
+	
+Slash
+Thunderbolt
+Bubblebeam
+Double Team
+#053 Persian
+Persian
+[Persian]
+Level 50
+	
+HP:	148
+Attack:	99
+Defense:	89
+Special:	93
+Speed:	143
+	
+Thunderbolt
+Double-edge
+Bide
+Screech
+#054 Psyduck
+Psyduck
+[Psyduck]
+Level 50
+	
+HP:	133
+Attack:	81
+Defense:	77
+Special:	78
+Speed:	83
+	
+Surf
+Seismic Toss
+Dig
+Blizzard
+#055 Golduck
+Golduck
+[Golduck]
+Level 50
+	
+HP:	163
+Attack:	111
+Defense:	107
+Special:	108
+Speed:	113
+	
+Disable
+Surf
+Confusion
+Mega Kick
+#056 Mankey
+Mankey
+[Mankey]
+Level 50
+	
+HP:	123
+Attack:	109
+Defense:	64
+Special:	63
+Speed:	98
+	
+Submission
+Dig
+Seismic Toss
+Strength
+#057 Primeape
+Primeape
+[Primeape]
+Level 50
+	
+HP:	148
+Attack:	134
+Defense:	89
+Special:	88
+Speed:	123
+	
+Seismic Toss
+Screech
+Mega Punch
+Low Kick
+#058 Growlithe
+Growlithe
+[Growlithe]
+Level 50
+	
+HP:	138
+Attack:	99
+Defense:	74
+Special:	78
+Speed:	88
+	
+Flamethrower
+Body Slam
+Reflect
+Dig
+#059 Arcanine
+Arcanine
+[Arcanine]
+Level 50
+	
+HP:	173
+Attack:	139
+Defense:	109
+Special:	108
+Speed:	123
+	
+Fire Blast
+Take Down
+Leer
+Agility
+#060 Poliwag
+Poliwag
+[Poliwag]
+Level 50
+	
+HP:	123
+Attack:	79
+Defense:	69
+Special:	68
+Speed:	118
+	
+Body Slam
+Blizzard
+Surf
+Amnesia
+#061 Poliwhirl
+Poliwhirl
+[Poliwhirl]
+Level 50
+	
+HP:	148
+Attack:	94
+Defense:	94
+Special:	78
+Speed:	118
+	
+Hypnosis
+Submission
+Mimic
+Surf
+#062 Poliwrath
+Poliwrath
+[Poliwrath]
+Level 50
+	
+HP:	173
+Attack:	114
+Defense:	124
+Special:	98
+Speed:	98
+	
+Hypnosis
+Submission
+Mimic
+Surf
+#063 Abra
+Abra
+[Abra]
+Level 50
+	
+HP:	108
+Attack:	49
+Defense:	44
+Special:	133
+Speed:	118
+	
+Psychic
+Seismic Toss
+Reflect
+Toxic
+#064 Kadabra
+Kadabra
+[Kadabra]
+Level 50
+	
+HP:	123
+Attack:	64
+Defense:	59
+Special:	148
+Speed:	133
+	
+Psybeam
+Thunder Wave
+Recover
+Seismic Toss
+#065 Alakazam
+Alakazam
+[Alakazam]
+Level 50
+	
+HP:	138
+Attack:	79
+Defense:	74
+Special:	163
+Speed:	148
+	
+Confusion
+Reflect
+Kinesis
+Dig
+#066 Machop
+Machop
+[Machop]
+Level 50
+	
+HP:	153
+Attack:	109
+Defense:	79
+Special:	63
+Speed:	63
+	
+Submission
+Rock Slide
+Earthquake
+Body Slam
+#067 Machoke
+Machoke
+[Machoke]
+Level 50
+	
+HP:	163
+Attack:	129
+Defense:	99
+Special:	78
+Speed:	73
+	
+Earthquake
+Submission
+Strength
+Focus Energy
+#068 Machamp
+Machamp
+[Machamp]
+Level 50
+	
+HP:	173
+Attack:	159
+Defense:	109
+Special:	93
+Speed:	83
+	
+Karate Chop
+Low Kick
+Fire Blast
+Dig
+#069 Bellsprout
+Bellsprout
+[Bellsprout]
+Level 50
+	
+HP:	133
+Attack:	104
+Defense:	64
+Special:	98
+Speed:	68
+	
+Acid
+Toxic
+Growth
+Razor Leaf
+#070 Weepinbell
+Weepinbell
+[Weepinbell]
+Level 50
+	
+HP:	148
+Attack:	119
+Defense:	79
+Special:	113
+Speed:	83
+	
+Razor Leaf
+Acid
+Slam
+Toxic
+#071 Victreebel
+Victreebel
+[Victreebel]
+Level 50
+	
+HP:	163
+Attack:	134
+Defense:	94
+Special:	128
+Speed:	98
+	
+Mega Drain
+Acid
+Wrap
+Toxic
+#072 Tentacool
+Tentacool
+[Tentacool]
+Level 50
+	
+HP:	123
+Attack:	69
+Defense:	64
+Special:	128
+Speed:	98
+	
+Surf
+Mega Drain
+Acid
+Toxic
+#073 Tentacruel
+Tentacruel
+[Tentacruel]
+Level 50
+	
+HP:	163
+Attack:	99
+Defense:	94
+Special:	148
+Speed:	128
+	
+Acid
+Screech
+Hydro Pump
+Cut
+#074 Geodude
+Geodude
+[Geodude]
+Level 50
+	
+HP:	123
+Attack:	109
+Defense:	129
+Special:	58
+Speed:	48
+	
+Earthquake
+Body Slam
+Rock Slide
+Exploison
+#075 Graveler
+Graveler
+[Graveler]
+Level 50
+	
+HP:	138
+Attack:	124
+Defense:	144
+Special:	73
+Speed:	63
+	
+Rock Slide
+Earthquake
+Strength
+Selfdestruct
+#076 Golem
+Golem
+[Golem]
+Level 50
+	
+HP:	163
+Attack:	139
+Defense:	159
+Special:	83
+Speed:	73
+	
+Rock Throw
+Mega Punch
+Dig
+Selfdestruct
+#077 Ponyta
+Ponyta
+[Ponyta]
+Level 50
+	
+HP:	133
+Attack:	114
+Defense:	84
+Special:	93
+Speed:	118
+	
+Fire Blast
+Reflect
+Horn Drill
+Body Slam
+#078 Rapidash
+Rapidash
+[Rapidash]
+Level 50
+	
+HP:	148
+Attack:	129
+Defense:	99
+Special:	108
+Speed:	133
+	
+Stomp
+Agility
+Toxic
+Fire Spin
+#079 Slowpoke
+Slowpoke
+[Slowpoke]
+Level 50
+	
+HP:	173
+Attack:	94
+Defense:	94
+Special:	68
+Speed:	43
+	
+Surf
+Psychic
+Thunder Wave
+Amnesia
+#080 Slowbro
+Slowbro
+[Slowbro]
+Level 50
+	
+HP:	178
+Attack:	104
+Defense:	139
+Special:	108
+Speed:	58
+	
+Surf
+Headbutt
+Dig
+Disable
+#081 Magnemite
+Magnemite
+[Magnemite]
+Level 50
+	
+HP:	108
+Attack:	64
+Defense:	99
+Special:	123
+Speed:	73
+	
+Thunderbolt
+Thunder Wave
+Supersonic
+Double-edge
+#082 Magneton
+Magneton
+[Magneton]
+Level 50
+	
+HP:	133
+Attack:	89
+Defense:	124
+Special:	148
+Speed:	98
+	
+Thunderbolt
+Thunder Wave
+Supersonic
+Double-edge
+#083 Farfetch'd
+Farfetch'd
+[Farfetch'd]
+Level 50
+	
+HP:	135
+Attack:	94
+Defense:	84
+Special:	86
+Speed:	88
+	
+Slash
+Sand-attack
+Toxic
+Fly
+#084 Doduo
+Doduo
+[Doduo]
+Level 50
+	
+HP:	118
+Attack:	114
+Defense:	74
+Special:	63
+Speed:	103
+	
+Drill Peck
+Tri Attack
+Reflect
+Substitute
+#085 Dodrio
+Dodrio
+[Dodrio]
+Level 50
+	
+HP:	143
+Attack:	139
+Defense:	99
+Special:	88
+Speed:	128
+	
+Fly
+Tri Attack
+Reflect
+Substitute
+#086 Seel
+Seel
+[Seel]
+Level 50
+	
+HP:	148
+Attack:	74
+Defense:	84
+Special:	98
+Speed:	73
+	
+Ice Beam
+Strength
+Double Team
+Surf
+#087 Dewgong
+Dewgong
+[Dewgong]
+Level 50
+	
+HP:	173
+Attack:	99
+Defense:	109
+Special:	123
+Speed:	98
+	
+Take Down
+Aurora Beam
+Rest
+Surf
+#088 Grimer
+Grimer
+[Grimer]
+Level 50
+	
+HP:	163
+Attack:	109
+Defense:	79
+Special:	68
+Speed:	53
+	
+Sludge
+Body Slam
+Exploison
+Mega Drain
+#089 Muk
+Muk
+[Muk]
+Level 50
+	
+HP:	188
+Attack:	134
+Defense:	104
+Special:	93
+Speed:	78
+	
+Sludge
+Thunder
+Mega Drain
+Screech
+#090 Shellder
+Shellder
+[Shellder]
+Level 50
+	
+HP:	113
+Attack:	94
+Defense:	129
+Special:	73
+Speed:	68
+	
+Ice Beam
+Exploison
+Surf
+Tri Attack
+#091 Cloyster
+Cloyster
+[Cloyster]
+Level 50
+	
+HP:	133
+Attack:	124
+Defense:	209
+Special:	113
+Speed:	98
+	
+Aurora Beam
+Selfdestruct
+Clamp
+Spike Cannon
+#092 Gastly
+Gastly
+[Gastly]
+Level 50
+	
+HP:	113
+Attack:	64
+Defense:	59
+Special:	128
+Speed:	108
+	
+Psychic
+Night Shade
+Exploison
+Confuse Ray
+#093 Haunter
+Haunter
+[Haunter]
+Level 50
+	
+HP:	128
+Attack:	79
+Defense:	74
+Special:	143
+Speed:	123
+	
+Psychic
+Thunderbolt
+Selfdestruct
+Confuse Ray
+#094 Gengar
+Gengar
+[Gengar]
+Level 50
+	
+HP:	143
+Attack:	94
+Defense:	89
+Special:	158
+Speed:	138
+	
+Hypnosis
+Dream Eater
+Thunderbolt
+Confuse Ray
+#095 Onix
+Onix
+[Onix]
+Level 50
+	
+HP:	118
+Attack:	74
+Defense:	189
+Special:	58
+Speed:	98
+	
+Earthquake
+Rock Slide
+Exploison
+Screech
+#096 Drowzee
+Drowzee
+[Drowzee]
+Level 50
+	
+HP:	143
+Attack:	77
+Defense:	74
+Special:	118
+Speed:	70
+	
+Hypnosis
+Seismic Toss
+Psychic
+Reflect
+#097 Hypno
+Hypno
+[Hypno]
+Level 50
+	
+HP:	168
+Attack:	102
+Defense:	99
+Special:	143
+Speed:	95
+	
+Hypnosis
+Dream Eater
+Counter
+Headbutt
+#098 Krabby
+Krabby
+[Krabby]
+Level 50
+	
+HP:	113
+Attack:	134
+Defense:	119
+Special:	53
+Speed:	78
+	
+Crabhammer
+Toxic
+Body Slam
+Blizzard
+#099 Kingler
+Kingler
+[Kingler]
+Level 50
+	
+HP:	138
+Attack:	159
+Defense:	144
+Special:	78
+Speed:	103
+	
+Crabhammer
+Strength
+Bide
+Leer
+#100 Voltorb
+Voltorb
+[Voltorb]
+Level 50
+	
+HP:	123
+Attack:	59
+Defense:	79
+Special:	83
+Speed:	128
+	
+Thunderbolt
+Thunder Wave
+Reflect
+Exploison
+#101 Electrode
+Electrode
+[Electrode]
+Level 50
+	
+HP:	143
+Attack:	79
+Defense:	99
+Special:	108
+Speed:	168
+	
+Thunder
+Toxic
+Swift
+Selfdestruct
+#102 Exeggcute
+Exeggcute
+[Exeggcute]
+Level 50
+	
+HP:	143
+Attack:	69
+Defense:	109
+Special:	88
+Speed:	68
+	
+Leech Seed
+Solarbeam
+Egg Bomb
+Psychic
+#103 Exeggutor
+Exeggutor
+[Exeggutor]
+Level 50
+	
+HP:	178
+Attack:	124
+Defense:	114
+Special:	153
+Speed:	83
+	
+Leech Seed
+Hypnosis
+Mega Drain
+Egg Bomb
+#104 Cubone
+Cubone
+[Cubone]
+Level 50
+	
+HP:	133
+Attack:	79
+Defense:	124
+Special:	68
+Speed:	63
+	
+Bonemerang
+Body Slam
+Ice Beam
+Seismic Toss
+#105 Marowak
+Marowak
+[Marowak]
+Level 50
+	
+HP:	143
+Attack:	109
+Defense:	139
+Special:	78
+Speed:	73
+	
+Bonemerang
+Thrash
+Fire Blast
+Focus Energy
+#106 Hitmonlee
+Hitmonlee
+[Hitmonlee]
+Level 50
+	
+HP:	133
+Attack:	149
+Defense:	82
+Special:	63
+Speed:	115
+	
+Hi Jump Kick
+Strength
+Counter
+Focus Energy
+#107 Hitmonchan
+Hitmonchan
+[Hitmonchan]
+Level 50
+	
+HP:	133
+Attack:	134
+Defense:	108
+Special:	63
+Speed:	104
+	
+Submission
+Strength
+Ice Punch
+Thunderpunch
+#108 Lickitung
+Lickitung
+[Lickitung]
+Level 50
+	
+HP:	173
+Attack:	84
+Defense:	104
+Special:	88
+Speed:	58
+	
+Earthquake
+Body Slam
+Screech
+Supersonic
+#109 Koffing
+Koffing
+[Koffing]
+Level 50
+	
+HP:	123
+Attack:	94
+Defense:	124
+Special:	88
+Speed:	63
+	
+Sludge
+Toxic
+Thunderbolt
+Fire Blast
+#110 Weezing
+Weezing
+[Weezing]
+Level 50
+	
+HP:	148
+Attack:	119
+Defense:	149
+Special:	113
+Speed:	88
+	
+Sludge
+Hyper Beam
+Haze
+Smokescreen
+#111 Rhyhorn
+Rhyhorn
+[Rhyhorn]
+Level 50
+	
+HP:	163
+Attack:	114
+Defense:	124
+Special:	58
+Speed:	53
+	
+Body Slam
+Earthquake
+Thunder
+Substitute
+#112 Rhydon
+Rhydon
+[Rhydon]
+Level 50
+	
+HP:	188
+Attack:	159
+Defense:	149
+Special:	73
+Speed:	68
+	
+Strength
+Dig
+Surf
+Substitute
+#113 Chansey
+Chansey
+[Chansey]
+Level 50
+	
+HP:	333
+Attack:	34
+Defense:	34
+Special:	133
+Speed:	78
+	
+Ice Beam
+Thunder
+Double-edge
+Reflect
+#114 Tangela
+Tangela
+[Tangela]
+Level 50
+	
+HP:	148
+Attack:	84
+Defense:	144
+Special:	128
+Speed:	88
+	
+Poisonpowder
+Take Down
+Mega Drain
+Growth
+#115 Kangaskhan
+Kangaskhan
+[Kangaskhan]
+Level 50
+	
+HP:	188
+Attack:	124
+Defense:	109
+Special:	68
+Speed:	118
+	
+Dizzy Punch
+Rock Slide
+Leer
+Thunderbolt
+#116 Horsea
+Horsea
+[Horsea]
+Level 50
+	
+HP:	113
+Attack:	69
+Defense:	99
+Special:	98
+Speed:	88
+	
+Hydro Pump
+Toxic
+Smokescreen
+Ice Beam
+#117 Seadra
+Seadra
+[Seadra]
+Level 50
+	
+HP:	138
+Attack:	94
+Defense:	124
+Special:	123
+Speed:	113
+	
+Smokescreen
+Hydro Pump
+Swift
+Agility
+#118 Goldeen
+Goldeen
+[Goldeen]
+Level 50
+	
+HP:	128
+Attack:	96
+Defense:	89
+Special:	78
+Speed:	91
+	
+Surf
+Toxic
+Double-edge
+Ice Beam
+#119 Seaking
+Seaking
+[Seaking]
+Level 50
+	
+HP:	163
+Attack:	121
+Defense:	94
+Special:	108
+Speed:	96
+	
+Waterfall
+Blizzard
+Supersonic
+Horn Attack
+#120 Staryu
+Staryu
+[Staryu]
+Level 50
+	
+HP:	113
+Attack:	74
+Defense:	84
+Special:	98
+Speed:	113
+	
+Thunderbolt
+Recover
+Surf
+Psychic
+#121 Starmie
+Starmie
+[Starmie]
+Level 50
+	
+HP:	143
+Attack:	104
+Defense:	114
+Special:	128
+Speed:	143
+	
+Bubblebeam
+Thunder
+Minimize
+Tri Attack
+#122 Mr. Mime
+Mr. Mime
+[Mr. Mime]
+Level 50
+	
+HP:	123
+Attack:	74
+Defense:	94
+Special:	128
+Speed:	118
+	
+Barrier
+Psychic
+Seismic Toss
+Counter
+#123 Scyther
+Scyther
+[Scyther]
+Level 50
+	
+HP:	153
+Attack:	139
+Defense:	109
+Special:	83
+Speed:	133
+	
+Double Team
+Wing Attack
+Slash
+Toxic
+#124 Jynx
+Jynx
+[Jynx]
+Level 50
+	
+HP:	148
+Attack:	79
+Defense:	64
+Special:	123
+Speed:	123
+	
+Lovely Kiss
+Ice Punch
+Thrash
+Psychic
+#125 Electabuzz
+Electabuzz
+[Electabuzz]
+Level 50
+	
+HP:	148
+Attack:	112
+Defense:	86
+Special:	113
+Speed:	133
+	
+Thunderpunch
+Flash
+Thunder Wave
+Seismic Toss
+#126 Magmar
+Magmar
+[Magmar]
+Level 50
+	
+HP:	148
+Attack:	124
+Defense:	86
+Special:	113
+Speed:	121
+	
+Confuse Ray
+Fire Punch
+Smokescreen
+Strength
+#127 Pinsir
+Pinsir
+[Pinsir]
+Level 50
+	
+HP:	148
+Attack:	154
+Defense:	129
+Special:	83
+Speed:	113
+	
+Slash
+Mimic
+Harden
+Guillotine
+#128 Tauros
+Tauros
+[Tauros]
+Level 50
+	
+HP:	158
+Attack:	129
+Defense:	124
+Special:	98
+Speed:	138
+	
+Strength
+Bide
+Fire Blast
+Tail Whip
+#129 Magikarp
+Magikarp
+[Magikarp]
+Level 50
+	
+HP:	103
+Attack:	39
+Defense:	84
+Special:	48
+Speed:	108
+	
+Splash
+Tackle
+#130 Gyarados
+Gyarados
+[Gyarados]
+Level 50
+	
+HP:	178
+Attack:	154
+Defense:	108
+Special:	128
+Speed:	109
+	
+Dragon Rage
+Hydro Pump
+Take Down
+Leer
+#131 Lapras
+Lapras
+[Lapras]
+Level 50
+	
+HP:	213
+Attack:	114
+Defense:	109
+Special:	123
+Speed:	88
+	
+Confuse Ray
+Sing
+Ice Beam
+Bubblebeam
+#132 Ditto
+Ditto
+[Ditto]
+Level 50
+	
+HP:	131
+Attack:	77
+Defense:	77
+Special:	76
+Speed:	76
+	
+Transform
+#133 Eevee
+Eevee
+[Eevee]
+Level 50
+	
+HP:	138
+Attack:	84
+Defense:	79
+Special:	93
+Speed:	83
+	
+Toxic
+Body Slam
+Sand-attack
+Focus Energy
+#134 Vaporeon
+Vaporeon
+[Vaporeon]
+Level 50
+	
+HP:	213
+Attack:	94
+Defense:	89
+Special:	138
+Speed:	93
+	
+Acid Armor
+Aurora Beam
+Surf
+Quick Attack
+#135 Jolteon
+Jolteon
+[Jolteon]
+Level 50
+	
+HP:	148
+Attack:	94
+Defense:	89
+Special:	138
+Speed:	158
+	
+Thunder
+Toxic
+Pin Missile
+Double Kick
+#136 Flareon
+Flareon
+[Flareon]
+Level 50
+	
+HP:	148
+Attack:	159
+Defense:	89
+Special:	138
+Speed:	93
+	
+Fire Blast
+Sand-attack
+Toxic
+Double-edge
+#137 Porygon
+Porygon
+[Porygon]
+Level 50
+	
+HP:	148
+Attack:	89
+Defense:	99
+Special:	103
+Speed:	68
+	
+Conversion
+Psychic
+Recover
+Tri Attack
+#138 Omanyte
+Omanyte
+[Omanyte]
+Level 50
+	
+HP:	118
+Attack:	69
+Defense:	129
+Special:	118
+Speed:	63
+	
+Blizzard
+Surf
+Double-edge
+Double Team
+#139 Omastar
+Omastar
+[Omastar]
+Level 50
+	
+HP:	153
+Attack:	89
+Defense:	154
+Special:	143
+Speed:	83
+	
+Hydro Pump
+Spike Cannon
+Leer
+Withdraw
+#140 Kabuto
+Kabuto
+[Kabuto]
+Level 50
+	
+HP:	113
+Attack:	109
+Defense:	119
+Special:	73
+Speed:	83
+	
+Slash
+Hydro Pump
+Ice Beam
+Toxic
+#141 Kabutops
+Kabutops
+[Kabutops]
+Level 50
+	
+HP:	143
+Attack:	144
+Defense:	134
+Special:	98
+Speed:	108
+	
+Hydro Pump
+Swords Dance
+Submission
+Take Down
+#142 Aerodactyl
+Aerodactyl
+[Aerodactyl]
+Level 50
+	
+HP:	163
+Attack:	134
+Defense:	94
+Special:	88
+Speed:	158
+	
+Supersonic
+Take Down
+Reflect
+Fly
+#143 Snorlax
+Snorlax
+[Snorlax]
+Level 50
+	
+HP:	243
+Attack:	139
+Defense:	94
+Special:	93
+Speed:	58
+	
+Thunder
+Headbutt
+Rest
+Bide
+#144 Articuno
+Articuno
+[Articuno]
+Level 50
+	
+HP:	173
+Attack:	114
+Defense:	129
+Special:	153
+Speed:	113
+	
+Ice Beam
+Sky Attack
+Rage
+Mimic
+#145 Zapdos
+Zapdos
+[Zapdos]
+Level 50
+	
+HP:	173
+Attack:	119
+Defense:	114
+Special:	153
+Speed:	128
+	
+Thunder
+Sky Attack
+Substitute
+Flash
+#146 Moltres
+Moltres
+[Moltres]
+Level 50
+	
+HP:	173
+Attack:	129
+Defense:	119
+Special:	153
+Speed:	118
+	
+Fire Blast
+Sky Attack
+Take Down
+Bide
+#147 Dratini
+Dratini
+[Dratini]
+Level 50
+	
+HP:	124
+Attack:	93
+Defense:	74
+Special:	78
+Speed:	78
+	
+Body Slam
+Dragon Rage
+Blizzard
+Thunder Wave
+#148 Dragonair
+Dragonair
+[Dragonair]
+Level 50
+	
+HP:	144
+Attack:	113
+Defense:	94
+Special:	98
+Speed:	98
+	
+Hyper Beam
+Thunderbolt
+Fire Blast
+Thunder Wave
+#149 Dragonite
+Dragonite
+[Dragonite]
+Level 50
+	
+HP:	174
+Attack:	163
+Defense:	124
+Special:	128
+Speed:	108
+	
+Slam
+Mimic
+Surf
+Substitute
