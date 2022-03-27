@@ -43,8 +43,7 @@ html {
 body {
     max-width: 40em;
     margin: 0 auto;
-    padding: .5em;
-    background-color: #222;
+    padding: .5em
 }
 
 h1 {
@@ -178,6 +177,38 @@ footer {
     clear: both
 }
 
+hr {
+    color: #222;
+    border-top: solid #666;
+}
+
+#controls {
+    color: #FFF;
+}
+
+#results {
+    background-color: #222;
+    color: #FFF;
+}
+
+ol {
+    list-style: none;
+}
+
+body {
+    background-color: #222;
+}
+
+.stat {
+    color: #FFF;
+    font-size: 0.9em;
+}
+
+.move {
+    color: #FFF;
+    font-size: 0.9em;
+}
+
 @media screen and (max-width:27em) {
     header {
         font-size: .75em
@@ -190,28 +221,10 @@ footer {
     }
 }
 
-@media screen and (max-width:420px) {
-    #results li {
-        width: 49%
-    }
-}
-
-@media screen and (max-width:308px) {
-    #results li {
-        float: none;
-        width: auto
-    }
-}
-
 @media screen and (prefers-color-scheme: dark) {
     html {
         background: #222;
         color: #FFF
-    }
-    body {
-        background: #222 !important;
-        color: #FFF;
-        background-color: #222 !important;
     }
     h2,
     footer {
